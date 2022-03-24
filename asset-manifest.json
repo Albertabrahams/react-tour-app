@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tourr/static/css/main.56a5307a.css",
-    "main.js": "/tourr/static/js/main.98b26d6e.js",
-    "static/js/787.36427ab7.chunk.js": "/tourr/static/js/787.36427ab7.chunk.js",
-    "index.html": "/tourr/index.html",
-    "main.56a5307a.css.map": "/tourr/static/css/main.56a5307a.css.map",
-    "main.98b26d6e.js.map": "/tourr/static/js/main.98b26d6e.js.map",
-    "787.36427ab7.chunk.js.map": "/tourr/static/js/787.36427ab7.chunk.js.map"
+    "main.css": "/react-tour-app/static/css/main.56a5307a.css",
+    "main.js": "/react-tour-app/static/js/main.639dbe15.js",
+    "static/js/787.2b9aebae.chunk.js": "/react-tour-app/static/js/787.2b9aebae.chunk.js",
+    "index.html": "/react-tour-app/index.html",
+    "main.56a5307a.css.map": "/react-tour-app/static/css/main.56a5307a.css.map",
+    "main.639dbe15.js.map": "/react-tour-app/static/js/main.639dbe15.js.map",
+    "787.2b9aebae.chunk.js.map": "/react-tour-app/static/js/787.2b9aebae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56a5307a.css",
-    "static/js/main.98b26d6e.js"
+    "static/js/main.639dbe15.js"
   ]
 }
