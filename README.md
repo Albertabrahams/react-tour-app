@@ -1,4 +1,4 @@
-Project link: https://albertabrahams.github.io/tourr/
+Project link: https://albertabrahams.github.io/react-tour-app/
 
 # Getting Started with Create React App
 
